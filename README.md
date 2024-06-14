@@ -1,11 +1,11 @@
-![MasterHead](./github-header-image-name.png)
+![MasterHead](https://github.com/akashsp7/akashsp7/blob/main/header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">Master's student in Machine Learning with a passion for harnessing AI, specializing in deep learning, NLP, and LLMs.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif?format=2500w”>
+<img align="right" alt="Coding" width="400" src="https://github.com/akashsp7/akashsp7/blob/main/NNGif.gif?raw=true">
 
 - 🌱 I’m currently learning **Langchain and MLOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akashsp7](https://github.com/akashsp7)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/akashsp7)
 
 - 💬 Ask me about **Deep Learning, NLP, Transformers**
 
