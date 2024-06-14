@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/akashsp7/akashsp7/blob/main/header-image.png?raw=true)
-<h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">Master's student in Machine Learning with a passion for harnessing AI, specializing in deep learning, NLP, and LLMs.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/akashsp7/akashsp7/blob/main/NNGif.gif?raw=true">
 
