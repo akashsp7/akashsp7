@@ -2,13 +2,13 @@
 <h3 align="center">Master's student in Machine Learning with a passion for harnessing AI, specializing in deep learning, NLP, and LLMs.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/akashsp7/akashsp7/blob/main/NNGif.gif?raw=true">
 
-- 🌱 I’m currently learning **Langchain and MLOps**
+- 🌱 Constantly improving my skills in **ML and NLP**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/akashsp7)
+- 👨‍💻 Visit my portfolio [here](https://akashsp7.github.io)
 
-- 💬 Ask me about **Deep Learning, NLP, Transformers**
+- 💬 Ask me about **Deep Learning, NLP, Transformers and ML**
 
-- 📫 How to reach me **akashpawar9619@gmail.com**
+- 📫 Reach me at **akashpawar9619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
